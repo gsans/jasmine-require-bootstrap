@@ -23,5 +23,5 @@ require(['jasmine-boot'], function () {
   require(['my-library.specs.require'], function(){
     //trigger Jasmine
     window.onload();
-  })
+  });
 });
